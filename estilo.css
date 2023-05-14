@@ -1,0 +1,83 @@
+.titulo {
+    border: palegreen;
+    border-radius: 50px;
+    background-color: paleturquoise;
+    border-style: dotted;
+}
+
+#titulo1 {
+    text-align: center;
+    color: slategray;
+    font-size: 50px;
+}
+
+body {
+    background: lightgreen;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    border: olive;
+    border-radius: 50px;
+    border-style: solid;
+    background-color: olive;
+}
+
+.imagens1 {
+    text-align: center;
+}
+
+table,
+td,
+th {
+    border: 1px solid olive;
+    font-size: 18px;
+}
+
+h3 {
+    border: 2px solid steelblue;
+    border-radius: 50px;
+    text-align: center;
+    background-color: turquoise;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+.col-sm-3:hover {
+    background-color: khaki;
+    font-size: 20px;
+}
+
+.row {
+    background-color: springgreen;
+    font-size: 15px;
+    text-align: center;
+}
+
+.diferente {
+    color: black;
+    font-size: 18px;
+    font-family: 'Alkalami', serif;
+}
+
+thead {
+    background-color: burlywood;
+    font-family: 'Oswald', sans-serif;
+}
+
+.resposta {
+    color: black;
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#casa {
+    color: saddlebrown;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 30px;
+}
